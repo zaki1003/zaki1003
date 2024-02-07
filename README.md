@@ -10,7 +10,7 @@
 
 
 - 🌱 Hello, I'm **Zaki**, a State Engineer in Computer Systems Engineering, currently student in Machine Learning for Data Science at Paris Cité University.
-- 🔭 I've a passion for technology and innovation, and always exploring the exciting realms of AI, Data Science, Dev and IoT.
+- 🔭 I've a passion for technology and innovation, and always exploring the exciting realms of AI, Data Science, Dev.
 - 💼 Currently diving deep into the world of Data Science, AI, exploring its endless possibilities.
 - 🤔 Fascinated by Data Science and its power to unveil insights from complex datasets.
 - ⚡  Tech at heart, with a keen interest in Dev practices for efficient software development.
