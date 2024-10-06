@@ -9,16 +9,16 @@
 </p>
 
 
-- 🌱 Hello, I'm **Zaki**, a State Engineer in Computer Systems Engineering, currently student in Machine Learning for Data Science at Paris Cité University.
+- 🌱 Hello, I'm **Zaki**, a State Engineer in Computer Systems Engineering, holder of a Master's degree (M2) in Machine Learning for Data Science from Paris Cité University.
 - 🔭 I've a passion for technology and innovation, and always exploring the exciting realms of AI, Data Science, Dev.
 - 💼 Currently diving deep into the world of Data Science, AI, exploring its endless possibilities.
 - 🤔 Fascinated by Data Science and its power to unveil insights from complex datasets.
 - ⚡  Tech at heart, with a keen interest in Dev practices for efficient software development.
-- 🎓 I hold a [Comuter Systems Engineering]([https://www.inpt.ac.ma/fr/data-engineer](https://www.esi-sba.dz/fr/)) degree from ESI-SBA.
+- 🎓 I hold a [Master's]([https://www.esi-sba.dz/fr/](https://u-paris.fr/)) degree in Machine Learning for Data Science from Paris Cité university, and a [Computer Systems Engineering]([https://www.esi-sba.dz/fr/](https://www.esi-sba.dz/fr/)) degree from ESI-SBA.
 
 
 
-I'm State Engineer in Computer Systems Engineering graduated from Higher School of Computer Science and a current student in Machine Learning for Data Science at Paris Cité University. With a passion for technology and innovation, I'm always exploring the exciting realms of AI, Data Science, Dev.
+I am a State Engineer in Computer Systems Engineering, graduated from the Higher School of Computer Science ESI-SBA, and holder of a Master's degree (M2) in Machine Learning for Data Science from Paris Cité University. Passionate about technology and innovation, I'm always exploring the exciting realms of AI, Data Science, Dev.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
