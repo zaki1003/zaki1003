@@ -49,6 +49,8 @@ Here are some ideas to get you started:
 ## 💬 Let's Connect & Collaborate
 
 - 📫 Reach out to me via email: mustapha.zakaria.merabet@gmail.com
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/mustapha-zakaria-merabet/)
+<!--
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/mustapha-zakaria-merabet/)   
+-->
 
 Whether it's AI, Data Science, Dev or just a tech enthusiast chat, I'm always open to engaging conversations and collaborations! 😄
