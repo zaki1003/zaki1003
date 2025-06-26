@@ -4,23 +4,27 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Scientist+👨‍🔬;ML/DL+Engineer+⚙️;Computer+Systems+Engineer+🤖&center=true&width=900&height=50" alt="Typing animation showing my roles and certifications">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Scientist+👨‍🔬;ML+Engineer+⚙️;Computer+Systems+Engineer+🤖&center=true&width=900&height=50" alt="Typing animation showing my roles and certifications">
   </a>
 </p>
 
 
-- 🌱 Hello, I'm **Zaki**, a State Engineer in Computer Systems Engineering, holder of a Master's degree (M2) in Machine Learning for Data Science from Paris Cité University.
+- 🌱 Hello, I'm **Zaki**, a Data, ML, and Cloud Engineer, I specialize in designing and deploying end-to-end solutions that turn raw data into intelligent, production-ready applications. With a dual foundation in Computer Systems Engineering (ESI-SBA) and a Master's in Machine Learning for Data Science (Paris Cité), I bridge the gap between robust data infrastructure and advanced AI models.
+
+  My core expertise lies in:
+- 🔧 **Data Engineering:** Architecting and managing scalable, end-to-end data pipelines for large-scale processing and real-time streaming.
+- 🤖 **Machine Learning:** Developing and operationalizing advanced models, with a focus on natural language processing and computer vision.
+- ⚡ **Cloud & Software Practices:** Implementing robust deployment and monitoring strategies on cloud platforms, ensuring solution scalability and reliability through modern software engineering principles.
+
+<!--
 - 🔭 I've a passion for technology and innovation, and always exploring the exciting realms of AI, Data Science, Dev.
 - 💼 Currently diving deep into the world of Data Science, AI, exploring its endless possibilities.
 - 🤔 Fascinated by Data Science and its power to unveil insights from complex datasets.
 - ⚡  Tech at heart, with a keen interest in Dev practices for efficient software development.
 - 🎓 I hold a [Master's]([https://www.esi-sba.dz/fr/](https://u-paris.fr/)) degree in Machine Learning for Data Science from Paris Cité university, and a [Computer Systems Engineering]([https://www.esi-sba.dz/fr/](https://www.esi-sba.dz/fr/)) degree from ESI-SBA.
-
-
-
 I am a State Engineer in Computer Systems Engineering, graduated from the Higher School of Computer Science ESI-SBA, and holder of a Master's degree (M2) in Machine Learning for Data Science from Paris Cité University. Passionate about technology and innovation, I'm always exploring the exciting realms of AI, Data Science, Dev.
 
-
+-->
 ![](https://komarev.com/ghpvc/?username=zaki1003&base=10000&style=for-the-badge)
 
 
@@ -34,19 +38,17 @@ I am a State Engineer in Computer Systems Engineering, graduated from the Higher
     </thead>
     <tr>
       <td align="center" width=110> <img height=60 src="https://techstack-generator.vercel.app/python-icon.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg"/> </td>
       <td align="center" width=110>  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /> </td>
       <td align="center" width=110>  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /> </td>
       <td align="center" width=110>  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="icon" width="65" height="65" /> </td>
-      <td align="center" width=110> <img height=60 src="https://techstack-generator.vercel.app/cpp-icon.svg"/> </td>
-      <td align="center" width=110> <img height=60 src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg"/> </td>
     </tr>
     <tr> 
       <td align="center" width=110>Python</td>
+      <td align="center" width=110>R</td>
       <td align="center" width=110>Java</td>
       <td align="center" width=110>JavaScript</td>
       <td align="center" width=110>Dart</td>
-      <td align="center" width=110>C++</td>
-      <td align="center" width=110>R</td>
     </tr>
   </table>
   <table>
@@ -95,29 +97,29 @@ I am a State Engineer in Computer Systems Engineering, graduated from the Higher
     <tr>
       <td align="center" width=110> <img height=60 src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sql_data_base_with_logo.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"/> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/225px-Microsoft_Azure.svg.png"/> </td>
       <td align="center" width=110> <img height=60 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"/> </td>
-      <td align="center" width=110> <img height=60 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg"/> </td>
       <tr align="center"> 
         <td align="center" width=110>SQL</td>
         <td align="center" width=110>Oracle</td>
         <td align="center" width=110>Azure</td>
         <td align="center" width=110>PostgreSQL</td>
-        <td align="center" width=110>MongoDB</td>
+        <td align="center" width=110>Apache Spark</td>
       </tr>
     </tr>
     <tr>
       <td align="center" width=110> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="icon" width="65" height="65"/> </td>
-      <td align="center" width=110> <img width="65" height="65" src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg"/> </td>
-      <td align="center" width=110> <img height="60" src="https://upload.wikimedia.org/wikipedia/fr/4/45/Hugging_Face_logo.svg"/> </td>
-      <td align="center" width=110> <img src="https://camo.githubusercontent.com/f05dd8f2dbcf21eac989f7a7c2cc6ebb4bbe3607e38a41d5e417c65378399a49/68747470733a2f2f67726164696f2e6170702f6173736574732f67726164696f2e737667" alt="icon" width="85" height="80"/> </td>
-      <td align="center" width=110> <img width="65" height="65" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg"/> </td>
+      <td align="center" width=110> <img width="65" height="65" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png"/> </td>
+      <td align="center" width=110> <img height="60" src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Apache-nifi-logo.svg"/> </td>
+      <td align="center" width=110> <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" alt="icon" width="85" height="80"/> </td>
+      <td align="center" width=110> <img width="65" height="65" src="https://upload.wikimedia.org/wikipedia/commons/7/70/TalendLogoCoral.png"/> </td>
       <tr align="center"> 
         <td align="center" width=110>Hadoop</td>
-        <td align="center" width=110>Matplotlib</td>
-        <td align="center" width=110>HuggingFace</td>
-        <td align="center" width=110>Gradio</td>
-        <td align="center" width=110>Jupyter</td>
+        <td align="center" width=110>Databricks</td>
+        <td align="center" width=110>Apache NiFi</td>
+        <td align="center" width=110>Apache Airflow</td>
+        <td align="center" width=110>Talend</td>
       </tr>
     </tr>
   </table>  
@@ -188,11 +190,6 @@ I am a State Engineer in Computer Systems Engineering, graduated from the Higher
 
 
 
-<p align="left"> 
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-
-
-   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 
 </p>
 
