@@ -12,9 +12,9 @@
 - 🌱 Hello, I'm **Zaki**, a Data, ML, and Cloud Engineer, I specialize in designing and deploying end-to-end solutions that turn raw data into intelligent, production-ready applications. With a dual foundation in Computer Systems Engineering (ESI-SBA) and a Master's in Machine Learning for Data Science (Paris Cité), I bridge the gap between robust data infrastructure and advanced AI models.
 
   My core expertise lies in:
-- 🔧 **Data Engineering:** Architecting and managing scalable, end-to-end data pipelines for large-scale processing and real-time streaming.
-- 🤖 **Machine Learning:** Developing and operationalizing advanced models, with a focus on natural language processing and computer vision.
-- ⚡ **Cloud & Software Practices:** Implementing robust deployment and monitoring strategies on cloud platforms, ensuring solution scalability and reliability through modern software engineering principles.
+  - 🔧 **Data Engineering:** Architecting and managing scalable, end-to-end data pipelines for large-scale processing and real-time streaming.
+  - 🤖 **Machine Learning:** Developing and operationalizing advanced models, with a focus on natural language processing and computer vision.
+  - ⚡ **Cloud & Software Practices:** Implementing robust deployment and monitoring strategies on cloud platforms, ensuring solution scalability and reliability through modern software engineering principles.
 
 <!--
 - 🔭 I've a passion for technology and innovation, and always exploring the exciting realms of AI, Data Science, Dev.
