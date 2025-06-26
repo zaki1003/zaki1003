@@ -185,6 +185,25 @@ Here are some ideas to get you started:
 -->
 
 
+## 📈 GitHub Analytics
+ 
+
+
+  
+  <div align="center">
+    <img width="360" src="https://github-readme-stats.vercel.app/api?username=zaki1003&count_private=true&show_icons=true&theme=react&rank_icon=percentile" />  
+<img width="380" src="https://github-readme-streak-stats.herokuapp.com/?user=zaki1003&theme=react&layout=compa" />
+  <a href="https://github.com/zaki1003">  
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=zaki1003&count_private=true&langs_count=14&show_icons=true&locale=en&layout=compact&theme=react"/> 
+  </a>
+                <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zaki1003&theme=react"/>
+
+</div>
+
+      
+## 🏆 My GitHub Profile Trophies
+<a target="_blank" href="https://github.com/zaki1003?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=zaki1003&theme=onestar&no-frame=true&column=6&row=1&margin-w=20&margin-h=20"  width="96%" alt="@Goblin's trophy stats"/></a>
+
 
 
 
@@ -196,3 +215,4 @@ Here are some ideas to get you started:
 -->
 
 Whether it's AI, Data Science, Dev or just a tech enthusiast chat, I'm always open to engaging conversations and collaborations! 😄
+### Support me ❤️ by [starring](https://github.com/ahlem-phantom?tab=repositories) <img src="https://img.icons8.com/fluency/20/000000/star.png" /> some of my repositories ⬇️ !   
