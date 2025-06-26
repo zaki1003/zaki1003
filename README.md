@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Mustapha Merabet!
+### 👋 Hi there, I'm Zakaria MERABET!
 
 ## 😄 About Me:
 
@@ -20,12 +20,11 @@
 
 I am a State Engineer in Computer Systems Engineering, graduated from the Higher School of Computer Science ESI-SBA, and holder of a Master's degree (M2) in Machine Learning for Data Science from Paris Cité University. Passionate about technology and innovation, I'm always exploring the exciting realms of AI, Data Science, Dev.
 
-<h3 align="left">Languages and Tools:</h3>
+
+![](https://komarev.com/ghpvc/?username=zaki1003&base=10000&style=for-the-badge)
 
 
-
-
-## ⚙️ Skills and Tools
+## ⚙️ Languages and Tool
 <div align="center">
   <table>
     <thead>
