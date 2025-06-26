@@ -36,14 +36,14 @@ I am a State Engineer in Computer Systems Engineering, graduated from the Higher
       <td align="center" width=110> <img height=60 src="https://techstack-generator.vercel.app/python-icon.svg"/> </td>
       <td align="center" width=110>  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /> </td>
       <td align="center" width=110>  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /> </td>
-      <td align="center" width=110>  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /> </td>
+      <td align="center" width=110>  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="icon" width="65" height="65" /> </td>
       <td align="center" width=110> <img height=60 src="https://techstack-generator.vercel.app/cpp-icon.svg"/> </td>
     </tr>
     <tr> 
       <td align="center" width=110>Python</td>
       <td align="center" width=110>Java</td>
       <td align="center" width=110>JavaScript</td>
-      <td align="center" width=110>Typescript</td>
+      <td align="center" width=110>Dart</td>
       <td align="center" width=110>C++</td>
     </tr>
   </table>
