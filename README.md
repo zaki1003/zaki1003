@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Scientist+👨‍🔬:;ML/DL+Engineer+⚙️;Computer+Systems+Engineer+🤖&center=true&width=900&height=50" alt="Typing animation showing my roles and certifications">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Scientist+👨‍🔬;ML/DL+Engineer+⚙️;Computer+Systems+Engineer+🤖&center=true&width=900&height=50" alt="Typing animation showing my roles and certifications">
   </a>
 </p>
 
@@ -215,4 +215,4 @@ Here are some ideas to get you started:
 -->
 
 Whether it's AI, Data Science, Dev or just a tech enthusiast chat, I'm always open to engaging conversations and collaborations! 😄
-### Support me ❤️ by [starring](https://github.com/ahlem-phantom?tab=repositories) <img src="https://img.icons8.com/fluency/20/000000/star.png" /> some of my repositories ⬇️ !   
+### Support me ❤️ by [starring](https://github.com/zaki1003?tab=repositories) <img src="https://img.icons8.com/fluency/20/000000/star.png" /> some of my repositories ⬇️ !   
